@@ -1,0 +1,5 @@
+pandas
+gitpython
+requests
+tqdm
+streamlit
